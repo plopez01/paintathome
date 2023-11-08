@@ -1,0 +1,3 @@
+interface Renderitzable {
+  PGraphics renderitzar();
+}
